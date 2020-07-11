@@ -5,4 +5,4 @@ Skywhisper is an encrypted broadcast communication tool built on top of the Byte
 
 This version of Skywhisper has been tested with Bytecoin v3.5.1
 
-To create Skywhisper master and subscribers/users nodes, follow the instructions in skywhisper_instructions.odt
+To create Skywhisper master and subscribers/users nodes, follow the instructions in Skywhisper_instructions.odt
